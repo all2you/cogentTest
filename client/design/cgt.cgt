@@ -1,0 +1,524 @@
+{
+    "page": {
+        "id": "P967756",
+        "w": 1920,
+        "h": 900,
+        "b": "rgba(0, 0, 0, 0)"
+    },
+    "item": {
+        "page_5_PD688436": {
+            "t": "ax5lb",
+            "dt": "LB",
+            "w": 213,
+            "h": 154,
+            "x": 10,
+            "y": 350,
+            "z": 120,
+            "hd": {
+                "txt": "브랜드"
+            },
+            "b": "rgb(255, 255, 255)",
+            "wt": "df",
+            "o": {
+                "dm": [
+                    "브랜드.raw"
+                ],
+                "dId": "car_im"
+            }
+        },
+        "page_5_PD995687": {
+            "t": "ax5lb",
+            "dt": "LB",
+            "w": 213,
+            "h": 334,
+            "x": 10,
+            "y": 10,
+            "z": 119,
+            "hd": true,
+            "b": "rgb(255, 255, 255)",
+            "wt": "df",
+            "o": {
+                "dm": [
+                    "지역.raw"
+                ],
+                "dId": "car_im"
+            }
+        },
+        "page_5_PD195060": {
+            "t": "ax5lb",
+            "dt": "LB",
+            "w": 213,
+            "h": 372,
+            "x": 10,
+            "y": 510,
+            "z": 118,
+            "hd": true,
+            "b": "rgb(255, 255, 255)",
+            "wt": "df",
+            "o": {
+                "dm": [
+                    "차종.raw"
+                ],
+                "dId": "car_im"
+            }
+        },
+        "page_5_PD787048": {
+            "t": "c3",
+            "dt": "CH",
+            "w": 252,
+            "h": 222,
+            "x": 240,
+            "y": 180,
+            "z": 117,
+            "hd": {
+                "hd": false
+            },
+            "b": "rgb(255, 255, 255)",
+            "wt": "df",
+            "o": {
+                "dm": [
+                    "브랜드.raw"
+                ],
+                "ex": [
+                    "COUNT(판매가)"
+                ],
+                "ci": {
+                    "브랜드.raw": {
+                        "size": "5"
+                    },
+                    "df": "서울"
+                },
+                "dId": "car_im",
+                "type": "pie",
+                "opt": {}
+            }
+        },
+        "page_5_PD549629": {
+            "t": "c3",
+            "dt": "CH",
+            "w": 252,
+            "h": 222,
+            "x": 740,
+            "y": 180,
+            "z": 121,
+            "hd": {
+                "hd": false
+            },
+            "b": "rgb(255, 255, 255)",
+            "wt": "df",
+            "o": {
+                "dm": [
+                    "브랜드.raw"
+                ],
+                "ex": [
+                    "COUNT(판매가)"
+                ],
+                "ci": {
+                    "브랜드.raw": {
+                        "size": "5"
+                    },
+                    "df": "경기도"
+                },
+                "dId": "car_im",
+                "type": "pie",
+                "opt": {}
+            }
+        },
+        "page_5_PD415742": {
+            "t": "textEditor",
+            "dt": "nodata",
+            "w": 752,
+            "h": 256,
+            "x": 240,
+            "y": 130,
+            "z": 109,
+            "hd": true,
+            "b": "rgb(255, 255, 255)",
+            "wt": "df",
+            "o": {
+                "html": "<span style='font-weight: bold; color: rgb(0, 0, 102); font-size: large; font-family: &quot;Sans Serif&quot;;'>&nbsp;Market Share by Region</span>"
+            }
+        },
+        "page_5_PD831776": {
+            "t": "c3",
+            "dt": "CH",
+            "w": 252,
+            "h": 222,
+            "x": 490,
+            "y": 180,
+            "z": 116,
+            "hd": {
+                "hd": false
+            },
+            "b": "rgb(255, 255, 255)",
+            "wt": "df",
+            "o": {
+                "dm": [
+                    "브랜드.raw"
+                ],
+                "ex": [
+                    "COUNT(판매가)"
+                ],
+                "ci": {
+                    "브랜드.raw": {
+                        "size": "5"
+                    },
+                    "df": "부산"
+                },
+                "dId": "car_im",
+                "type": "pie",
+                "opt": {}
+            }
+        },
+        "page_5_PD116508": {
+            "t": "textEditor",
+            "dt": "nodata",
+            "w": 252,
+            "h": 27,
+            "x": 240,
+            "y": 390,
+            "z": 122,
+            "hd": true,
+            "b": "rgb(255, 255, 255)",
+            "wt": "df",
+            "o": {
+                "html": "<div style='text-align: center;'><span style='font-size: 10pt;'><span style='color: rgb(0, 0, 102);'>서울</span>&nbsp;</span></div>"
+            }
+        },
+        "page_5_PD331644": {
+            "t": "textEditor",
+            "dt": "nodata",
+            "w": 252,
+            "h": 27,
+            "x": 490,
+            "y": 390,
+            "z": 123,
+            "hd": true,
+            "b": "rgb(255, 255, 255)",
+            "wt": "df",
+            "o": {
+                "html": "<div style='text-align: center;'><span style='font-size: 10pt;'><font color='#000066'>경기</font>&nbsp;</span></div>"
+            }
+        },
+        "page_5_PD484150": {
+            "t": "textEditor",
+            "dt": "nodata",
+            "w": 252,
+            "h": 27,
+            "x": 740,
+            "y": 390,
+            "z": 124,
+            "hd": true,
+            "b": "rgb(255, 255, 255)",
+            "wt": "df",
+            "o": {
+                "html": "<div style='text-align: center;'><span style='font-size: 10pt;'><font color='#000066'>부산</font></span></div>"
+            }
+        },
+        "page_5_PD952184": {
+            "t": "img",
+            "dt": "edit",
+            "w": 102,
+            "h": 102,
+            "x": 240,
+            "y": 10,
+            "z": 115,
+            "hd": false,
+            "b": "rgba(0, 0, 0, 0)",
+            "wt": "nb",
+            "o": {
+                "src": "img/icons/icon_chart.png"
+            }
+        },
+        "page_5_PD279101": {
+            "t": "img",
+            "dt": "edit",
+            "w": 102,
+            "h": 102,
+            "x": 620,
+            "y": 10,
+            "z": 114,
+            "hd": false,
+            "b": "rgba(0, 0, 0, 0)",
+            "wt": "nb",
+            "o": {
+                "src": "img/icons/icon_line.png"
+            }
+        },
+        "page_5_PD585311": {
+            "t": "cu",
+            "dt": "CH",
+            "w": 272,
+            "h": 102,
+            "x": 721,
+            "y": 10,
+            "z": 126,
+            "hd": true,
+            "b": "rgb(255, 255, 255)",
+            "wt": "nb",
+            "o": {
+                "dm": [],
+                "ex": [
+                    "SUM(doc['판매가'].value*1.25)s"
+                ],
+                "ci": {},
+                "dId": "car_im",
+                "type": "num",
+                "opt": {
+                    "label": {
+                        "txt": "Sales",
+                        "style": ""
+                    }
+                }
+            }
+        },
+        "page_5_PD980861": {
+            "t": "img",
+            "dt": "edit",
+            "w": 102,
+            "h": 102,
+            "x": 1010,
+            "y": 10,
+            "z": 113,
+            "hd": false,
+            "b": "rgba(0, 0, 0, 0)",
+            "wt": "nb",
+            "o": {
+                "src": "img/icons/icon_pie.png"
+            }
+        },
+        "page_5_PD920715": {
+            "t": "cu",
+            "dt": "CH",
+            "w": 272,
+            "h": 102,
+            "x": 1110,
+            "y": 10,
+            "z": 127,
+            "hd": true,
+            "b": "rgb(255, 255, 255)",
+            "wt": "nb",
+            "o": {
+                "dm": [],
+                "ex": [
+                    "SUM((doc['판매가'].value * 1.25) - doc['판매가'].value)s"
+                ],
+                "ci": {},
+                "dId": "car_im",
+                "type": "num",
+                "opt": {
+                    "label": {
+                        "txt": "Gap",
+                        "style": ""
+                    }
+                }
+            }
+        },
+        "page_5_PD866593": {
+            "t": "img",
+            "dt": "edit",
+            "w": 102,
+            "h": 102,
+            "x": 1390,
+            "y": 10,
+            "z": 112,
+            "hd": false,
+            "b": "rgba(0, 0, 0, 0)",
+            "wt": "nb",
+            "o": {
+                "src": "img/icons/icon_radar.png"
+            }
+        },
+        "page_5_PD451475": {
+            "t": "cu",
+            "dt": "CH",
+            "w": 272,
+            "h": 102,
+            "x": 1486,
+            "y": 10,
+            "z": 128,
+            "hd": true,
+            "b": "rgb(255, 255, 255)",
+            "wt": "nb",
+            "o": {
+                "dm": [],
+                "ex": [
+                    "AVG((doc['판매가'].value*1.25) / doc['판매가'].value * 100)s"
+                ],
+                "ci": {},
+                "dId": "car_im",
+                "type": "num",
+                "opt": {
+                    "label": {
+                        "txt": "Rate",
+                        "style": ""
+                    },
+                    "option": {
+                        "suffix": "%"
+                    }
+                }
+            }
+        },
+        "page_5_PD814556": {
+            "t": "c3",
+            "dt": "CH",
+            "w": 747,
+            "h": 287,
+            "x": 1010,
+            "y": 130,
+            "z": 111,
+            "hd": {
+                "txt": "지역별 판매량",
+                "hd": false
+            },
+            "b": "rgb(255, 255, 255)",
+            "wt": "df",
+            "o": {
+                "dm": [
+                    "지역.raw"
+                ],
+                "ex": [
+                    "COUNT(판매가)"
+                ],
+                "ci": {
+                    "지역.raw": {
+                        "size": "20"
+                    }
+                },
+                "dId": "car_im",
+                "type": "bar",
+                "opt": {
+                    "axis": {
+                        "rotated": true
+                    }
+                },
+                "exLabel": [
+                    "판매량"
+                ]
+            }
+        },
+        "page_5_PD912871": {
+            "t": "c3",
+            "dt": "CH",
+            "w": 752,
+            "h": 423,
+            "x": 240,
+            "y": 460,
+            "z": 110,
+            "hd": {
+                "hd": false
+            },
+            "b": "rgb(255, 255, 255)",
+            "wt": "df",
+            "o": {
+                "dm": [
+                    "년도.raw"
+                ],
+                "ex": [
+                    "SUM(판매가)",
+                    "SUM(doc['판매가'].value*1.25)s"
+                ],
+                "ci": {
+                    "년도.raw": {
+                        "size": "5"
+                    }
+                },
+                "dId": "car_im",
+                "type": "line",
+                "opt": {
+                    "legend": {
+                        "position": "right"
+                    }
+                },
+                "exLabel": [
+                    "Plan Sales",
+                    "Actual Sales"
+                ]
+            }
+        },
+        "page_5_PD871460": {
+            "t": "textEditor",
+            "dt": "nodata",
+            "w": 752,
+            "h": 452,
+            "x": 240,
+            "y": 430,
+            "z": 108,
+            "hd": true,
+            "b": "rgb(255, 255, 255)",
+            "wt": "df",
+            "o": {
+                "html": "<span style='font-weight: bold; color: rgb(0, 0, 102); font-size: large; font-family: &quot;Sans Serif&quot;'>&nbsp;Plan Sales vs Actual Sales by Year</span>"
+            }
+        },
+        "page_5_PD704806": {
+            "t": "ax5grid",
+            "dt": "CH",
+            "w": 748,
+            "h": 452,
+            "x": 1010,
+            "y": 430,
+            "z": 107,
+            "hd": {
+                "hd": true
+            },
+            "b": "rgb(255, 255, 255)",
+            "wt": "df",
+            "o": {
+                "dm": [
+                    "년도.raw",
+                    "지역.raw",
+                    "차종.raw"
+                ],
+                "ex": [
+                    "COUNT(판매가)"
+                ],
+                "ci": {
+                    "년도.raw": {
+                        "size": "5"
+                    },
+                    "지역.raw": {
+                        "size": "5"
+                    },
+                    "차종.raw": {
+                        "size": "5"
+                    }
+                },
+                "dId": "car_im",
+                "type": "default"
+            }
+        },
+        "page_5_PD818685": {
+            "t": "cu",
+            "dt": "CH",
+            "w": 272,
+            "h": 102,
+            "x": 340,
+            "y": 10,
+            "z": 125,
+            "hd": true,
+            "b": "rgb(255, 255, 255)",
+            "wt": "nb",
+            "o": {
+                "dm": [],
+                "ex": [
+                    "SUM(판매가)"
+                ],
+                "ci": {},
+                "dId": "car_im",
+                "type": "num",
+                "opt": {
+                    "label": {
+                        "txt": "Plan Sales",
+                        "style": ""
+                    }
+                }
+            }
+        }
+    },
+    "data": {
+        "ids": [
+            "car_im"
+        ]
+    }
+}
